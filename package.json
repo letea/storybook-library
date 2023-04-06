@@ -1,0 +1,30 @@
+{
+  "name": "@letea/storybook",
+  "version": "0.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamletea/storybook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamletea/storybook/issues"
+  },
+  "homepage": "https://github.com/iamletea/storybook#readme",
+  "prettier": {
+    "arrowParens": "avoid",
+    "semi": true,
+    "singleQuote": false,
+    "tabWidth": 2,
+    "trailingComma": "none"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0"
+  }
+}
